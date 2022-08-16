@@ -16,14 +16,14 @@ public class OnlyOddCheckUsingStream {
         list.add(sc.nextInt());
         list.add(sc.nextInt());
         sc.close();
-        boolean result = onlyOddPresentOrNot(list);
-        if(result)
-        {
-            System.out.println("Yes");
-        }
-        else {
-            System.out.println("No");
-        }
+        System.out.println(onlyOddPresentOrNot(list));
+//        if(result)
+//        {
+//            System.out.println("Yes");
+//        }
+//        else {
+//            System.out.println("No");
+//        }
     }
 
     public static boolean onlyOddPresentOrNot(List<Integer> list)
