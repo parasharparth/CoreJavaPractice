@@ -14,6 +14,24 @@ public class OnlyOddPresentOrNot {
         list.add(sc.nextInt());
         list.add(sc.nextInt());
         sc.close();
+        if(onlyOddPresent(list))
+        {
+            System.out.println("Yes");
+        }
+        else {
+            System.out.println("No");
+        }
+    }
 
+    public static boolean onlyOddPresent(List<Integer> list)
+    {
+        for(int i=0; i<list.size(); i++)
+        {
+            if(list.get(i) % 2 == 0)
+            {
+                return false;
+            }
+        }
+        return true;
     }
 }
