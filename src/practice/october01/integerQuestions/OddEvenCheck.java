@@ -20,5 +20,5 @@ public class OddEvenCheck {
         {
             System.out.println("Odd Number");
         }
-    }
+    } //add
 }

@@ -33,4 +33,6 @@ public class PrimeChecker {
             System.out.println("Not a prime number");
         }
     }
+    //add
+    //add
 }
