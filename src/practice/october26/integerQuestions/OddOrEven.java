@@ -9,7 +9,7 @@ public class OddOrEven {
             System.out.println("Neither odd nor even");
             return;
         }
-        if(a %2 == 0)
+        if(a % 2 == 0)
         {
             System.out.println("Even");
         }
