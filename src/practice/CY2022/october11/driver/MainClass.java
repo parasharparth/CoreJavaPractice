@@ -1,8 +1,8 @@
-package practice.october11.driver;
+package practice.CY2022.october11.driver;
 
-import practice.october11.stringQuestions.RemovingWhitespaces;
-import practice.october11.stringQuestions.ReverseAString;
-import practice.october11.stringQuestions.VowelPresentOrNot;
+import practice.CY2022.october11.stringQuestions.RemovingWhitespaces;
+import practice.CY2022.october11.stringQuestions.ReverseAString;
+import practice.CY2022.october11.stringQuestions.VowelPresentOrNot;
 
 import java.util.Scanner;
 

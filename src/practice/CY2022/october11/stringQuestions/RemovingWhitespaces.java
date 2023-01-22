@@ -1,4 +1,4 @@
-package practice.october11.stringQuestions;
+package practice.CY2022.october11.stringQuestions;
 
 public class RemovingWhitespaces {
 
