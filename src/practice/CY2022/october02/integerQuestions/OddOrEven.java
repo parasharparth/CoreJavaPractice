@@ -1,4 +1,4 @@
-package practice.october02.integerQuestions;
+package practice.CY2022.october02.integerQuestions;
 
 public class OddOrEven {
 
