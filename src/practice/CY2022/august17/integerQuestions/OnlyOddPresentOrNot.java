@@ -1,4 +1,4 @@
-package practice.august17.integerQuestions;
+package practice.CY2022.august17.integerQuestions;
 
 import java.util.ArrayList;
 import java.util.List;
