@@ -1,4 +1,4 @@
-package practice.december16;
+package practice.CY2022.december16;
 
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;

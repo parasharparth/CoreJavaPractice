@@ -1,4 +1,4 @@
-package practice.december16;
+package practice.CY2022.december16;
 
 public class PrintingPatterns {
 
