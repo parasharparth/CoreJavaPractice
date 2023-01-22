@@ -1,6 +1,6 @@
-package practice.october26.driver;
+package practice.CY2022.october26.driver;
 
-import practice.october26.integerQuestions.Swapping;
+import practice.CY2022.october26.integerQuestions.Swapping;
 
 import java.util.Scanner;
 
