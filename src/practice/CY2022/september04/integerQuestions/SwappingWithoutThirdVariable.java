@@ -1,4 +1,4 @@
-package practice.september04.integerQuestions;
+package practice.CY2022.september04.integerQuestions;
 
 public class SwappingWithoutThirdVariable {
 
