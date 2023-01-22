@@ -1,4 +1,4 @@
-package practice.august16.integerQuestions;
+package practice.CY2022.august16.integerQuestions;
 
 public class RecursiveFibonacciSeries {
 
