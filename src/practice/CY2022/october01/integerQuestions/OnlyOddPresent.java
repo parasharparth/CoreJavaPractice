@@ -1,4 +1,4 @@
-package practice.october01.integerQuestions;
+package practice.CY2022.october01.integerQuestions;
 
 public class OnlyOddPresent {
 
