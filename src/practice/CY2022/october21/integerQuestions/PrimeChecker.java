@@ -1,4 +1,4 @@
-package practice.october21.integerQuestions;
+package practice.CY2022.october21.integerQuestions;
 
 public class PrimeChecker {
 

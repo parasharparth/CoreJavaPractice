@@ -1,9 +1,9 @@
-package practice.october21.driver;
+package practice.CY2022.october21.driver;
 
-import practice.october21.integerQuestions.FibonacciSeries;
-import practice.october21.integerQuestions.OddOrEven;
-import practice.october21.integerQuestions.PrimeChecker;
-import practice.october21.integerQuestions.SwappingWithoutThird;
+import practice.CY2022.october21.integerQuestions.FibonacciSeries;
+import practice.CY2022.october21.integerQuestions.OddOrEven;
+import practice.CY2022.october21.integerQuestions.PrimeChecker;
+import practice.CY2022.october21.integerQuestions.SwappingWithoutThird;
 
 import java.util.Scanner;
 
