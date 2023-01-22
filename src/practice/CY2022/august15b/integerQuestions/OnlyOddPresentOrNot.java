@@ -1,4 +1,4 @@
-package practice.august15b.integerQuestions;
+package practice.CY2022.august15b.integerQuestions;
 
 import java.util.*;
 
