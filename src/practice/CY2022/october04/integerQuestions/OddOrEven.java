@@ -1,4 +1,4 @@
-package practice.october04.integerQuestions;
+package practice.CY2022.october04.integerQuestions;
 
 import java.util.Scanner;
 
