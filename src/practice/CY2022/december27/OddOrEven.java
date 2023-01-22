@@ -1,4 +1,4 @@
-package practice.december27;
+package practice.CY2022.december27;
 
 import java.util.Scanner;
 
