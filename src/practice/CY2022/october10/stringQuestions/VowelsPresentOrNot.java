@@ -1,4 +1,4 @@
-package practice.october10.stringQuestions;
+package practice.CY2022.october10.stringQuestions;
 
 public class VowelsPresentOrNot {
 
